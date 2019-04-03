@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Homemade Apple';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Homemade Apple Regular'), local('HomemadeApple-Regular'), url(http://web.archive.org/web/20170914071439im_/http://fonts.gstatic.com/s/homemadeapple/v7/yg3UMEsefgZ8IHz_ryz86J9Wgegw1HyrDAZq28nXLYY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://web.archive.org/web/20170914071439im_/http://fonts.gstatic.com/s/lato/v13/LgcV55siz7BRNdbO3Huj5g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(http://web.archive.org/web/20170914071439im_/http://fonts.gstatic.com/s/lato/v13/BTu4SsVveqk58cdYjlaM9g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://web.archive.org/web/20170914071439im_/http://fonts.gstatic.com/s/lato/v13/4GwpJM7qx9X5Obd9KsnKxQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://web.archive.org/web/20170914071439im_/http://fonts.gstatic.com/s/lato/v13/zpv3sOKAbMf4wff105oLjw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Montserrat Bold'), local('Montserrat-Bold'), url(http://web.archive.org/web/20170914071439im_/http://fonts.gstatic.com/s/montserrat/v10/IQHow_FEYlDC4Gzy_m8fcrOLyRJkM5aLlPlkJMOAyH0.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 07:14:39 Sep 14, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:18:24 Apr 03, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 31.996 (3)
+  esindex: 0.005
+  captures_list: 153.215
+  CDXLines.iter: 32.968 (3)
+  PetaboxLoader3.datanode: 35.162 (4)
+  exclusion.robots: 0.159
+  exclusion.robots.policy: 0.15
+  RedisCDXSource: 0.766
+  PetaboxLoader3.resolve: 108.797
+  load_resource: 137.228
+*/
